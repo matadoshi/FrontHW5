@@ -35,23 +35,26 @@ header #right{
     padding: 12rem 0;
     width: 100%;
     text-align: center;
+    opacity: 1.2;
     background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
 }
 #First h1{
+    
     color: #fff;
-    width: 30%;
-    margin: 30px auto;
+    font-weight: 700;
+    margin: 0 0 4rem;
+    font-size: 3rem;
 }
 .form input{
     width: 30%;
-    padding: 20px 3rem 20px 1rem;
+    padding: 25px 5rem 25px 1.5rem;
     border-radius: 5px;
     border: 1px solid #fff;
     outline: none;
     margin-right: 20px;
 }
 .form button{
-    padding:20px 2rem 20px 2rem ;
+    padding:25px 2rem 25px 2rem ;
     background: #0d6efd;
     color: #fff;
     border: 1px solid #0d6efd;
